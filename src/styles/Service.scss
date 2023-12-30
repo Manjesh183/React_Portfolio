@@ -1,0 +1,38 @@
+#container{
+    background-color: blueviolet;
+    width:100vw;
+    height:100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ .proj1{
+    background-color:black;
+    color: aliceblue;
+    margin:5px;
+    padding:10px;
+    height:80vh;
+    
+    >button{
+        background-color: violet;
+        color:white;
+        font-size: large;
+        margin:15px;
+        padding:5px;
+        height:3rem;
+        width:4rem;
+        border-radius: 15px;
+    }
+    
+
+ }
+//  #proj3{
+//     background-color:black;
+//     color: aliceblue;
+
+//  }
+//  #proj2{
+//     background-color:black;
+//     color: aliceblue;
+
+//  }
